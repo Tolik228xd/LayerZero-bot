@@ -1,0 +1,163 @@
+{
+    "network": [
+        {
+            "chain_id": 0,
+            "id": 1,
+            "name": "Plugins",
+            "rpc_url": "https://eth.llamarpc.com",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "plugins",
+            "txn_explorer_url": "None"
+        },
+        {
+            "chain_id": 1,
+            "id": 2,
+            "name": "Ethereum",
+            "rpc_url": "https://eth.llamarpc.com",
+            "settings": {
+                "MAX_GAS_PRICE": 5000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "ethereum",
+            "txn_explorer_url": "https://etherscan.io/tx/"
+        },
+
+        {
+            "chain_id": 42161,
+            "id": 7,
+            "name": "Arbitrum One",
+            "rpc_url": "https://arb1.arbitrum.io/rpc",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "arbitrum_one",
+            "txn_explorer_url": "https://arbiscan.io/tx/"
+        },
+        {
+            "chain_id": 10,
+            "id": 8,
+            "name": "Optimism",
+            "rpc_url": "https://rpc.ankr.com/optimism",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "optimism",
+            "txn_explorer_url": "https://optimistic.etherscan.io/tx/"
+        },
+
+        {
+            "chain_id": 56,
+            "id": 11,
+            "name": "BSC",
+            "rpc_url": "https://bsc-pokt.nodies.app",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "bsc",
+            "txn_explorer_url": "https://bscscan.com/tx/"
+        },
+        {
+            "chain_id": 8453,
+            "id": 17,
+            "name": "Base",
+            "rpc_url": "https://mainnet.base.org",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "base",
+            "txn_explorer_url": "https://basescan.org/tx/"
+        },
+        {
+            "chain_id": 59144,
+            "id": 21,
+            "name": "Linea",
+            "rpc_url": "https://rpc.linea.build",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "linea",
+            "txn_explorer_url": "https://explorer.linea.build/"
+        },
+        {
+            "chain_id": 56,
+            "id": 11,
+            "name": "BSC",
+            "rpc_url": "https://bsc-pokt.nodies.app",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "bsc",
+            "txn_explorer_url": "https://bscscan.com/tx/"
+        },
+        {
+            "chain_id": 130,
+            "id": 12,
+            "name": "Unichain",
+            "rpc_url": "https://unichain-rpc.publicnode.com",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "unichain",
+            "txn_explorer_url": "https://uniscan.xyz/tx/"
+        },
+        {
+            "chain_id": 43114,
+            "id": 9,
+            "name": "Avalanche",
+            "rpc_url": "https://rpc.ankr.com/avalanche",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "avalanche",
+            "txn_explorer_url": "https://snowtrace.io/"
+        },
+        {
+            "chain_id": 137,
+            "id": 10,
+            "name": "Polygon",
+            "rpc_url": "https://rpc.ankr.com/polygon",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "polygon",
+            "txn_explorer_url": "https://polygonscan.com/"
+        },
+        {
+            "chain_id": 2741,
+            "id": 11,
+            "name": "Abstract",
+            "rpc_url": "https://api.mainnet.abs.xyz",
+            "settings": {
+                "MAX_GAS_PRICE": 100000000000,
+                "WAIT_TXN_RECEIPT_TIMEOUT": 300,
+                "GAS_PRICE_INCREASE": 1.1
+            },
+            "slug": "abstract",
+            "txn_explorer_url": "https://abscan.org/tx/"
+        }
+
+    ]
+}

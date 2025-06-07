@@ -1,0 +1,24 @@
+aiohttp
+eth-account == 0.13.4
+eth-typing == 5.1.0
+eth-utils == 5.1.0
+hdwallets == 0.1.2
+mnemonic == 0.21
+multidict ==  6.1.0
+parsimonious == 0.10.0
+pydantic == 2.10.5
+pydantic_core == 2.27.2
+requests == 2.32.3
+setuptools == 68.2.0
+solders == 0.24.0
+toolz == 1.0.0
+typing_extensions == 4.12.2
+urllib3 == 2.3.0
+web3 == 7.7.0
+websockets == 13.1
+wheel == 0.41.2
+yarl == 1.18.3
+requests == 2.32.3
+PySocks == 1.7.1
+ccxt == 4.4.75
+
